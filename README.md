@@ -1,2 +1,2 @@
 # my-first-website
-my fist web
+my fist website
